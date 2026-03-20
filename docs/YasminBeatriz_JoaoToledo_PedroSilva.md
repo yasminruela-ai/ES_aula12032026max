@@ -1,3 +1,6 @@
+<img width="2723" height="163" alt="image" src="https://github.com/user-attachments/assets/e8d5eb97-3b1f-46b7-b032-b14cabbefb55" />
+
+
 ## UC01 --- Realizar Login 
 
 ### Ator Principal
