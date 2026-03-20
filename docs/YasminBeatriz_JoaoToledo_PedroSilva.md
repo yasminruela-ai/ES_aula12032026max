@@ -1,4 +1,6 @@
-<img width="2723" height="163" alt="image" src="https://github.com/user-attachments/assets/e8d5eb97-3b1f-46b7-b032-b14cabbefb55" />
+<img width="433" height="774" alt="image" src="https://github.com/user-attachments/assets/1612c940-7099-45eb-8c44-05db8d9487b7" />
+<img width="417" height="852" alt="image" src="https://github.com/user-attachments/assets/eea1b08e-3892-43f3-8ccd-08501a0b2350" />
+
 
 
 ## UC01 --- Realizar Login 
