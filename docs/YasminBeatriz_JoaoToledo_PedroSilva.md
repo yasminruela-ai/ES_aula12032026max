@@ -1,7 +1,10 @@
-<img width="2723" height="163" alt="image" src="https://github.com/user-attachments/assets/e8d5eb97-3b1f-46b7-b032-b14cabbefb55" />
+<img width="433" height="774" alt="image" src="https://github.com/user-attachments/assets/8c0c9c6c-dc03-4c44-9f99-42e0d0a7e441" />
+<img width="417" height="852" alt="image" src="https://github.com/user-attachments/assets/b0f9cdd6-2c92-4332-b495-0aa55811eb25" />
+
 
 
 ## UC01 --- Realizar Login 
+<img width="199" height="303" alt="image" src="https://github.com/user-attachments/assets/3b26c196-90dc-484c-b8dc-8c9f03a5036e" />
 
 ### Ator Principal
 
@@ -46,6 +49,8 @@ Permitir que o usuário acesse o sistema.
 -   Nenhuma
 
 ## UC02 --- Cadastrar Aluno
+<img width="189" height="358" alt="image" src="https://github.com/user-attachments/assets/3cb63104-52bf-45af-afae-1cd593cbdbda" />
+
 
 ### Ator Principal
 
@@ -90,6 +95,7 @@ Cadastrar um novo aluno no sistema.
 -   Nenhuma
 
 ## UC03 --- Atualizar Cadastro de Aluno
+<img width="149" height="303" alt="image" src="https://github.com/user-attachments/assets/ce0d6793-c4fd-4c82-96cf-e4db438658e5" />
 
 ### Ator Principal
 
@@ -132,6 +138,7 @@ Atualizar informações de um aluno.
 -   Nenhuma
 
 ## UC04 --- Criar Plano
+<img width="173" height="303" alt="image" src="https://github.com/user-attachments/assets/17e30e38-c6f5-4a84-a595-861c485e334b" />
 
 ### Ator Principal
 
@@ -174,6 +181,7 @@ Criar um novo tipo de plano.
 -   Nenhuma
 
 ## UC05 --- Editar Plano
+<img width="149" height="303" alt="image" src="https://github.com/user-attachments/assets/5ef0bb3a-6be5-42a2-8c4e-4c2713f6f167" />
 
 ### Ator Principal
 
@@ -216,6 +224,7 @@ Alterar informações de um plano existente.
 -   Nenhuma
 
 ## UC06 --- Ativar Plano
+<img width="135" height="248" alt="image" src="https://github.com/user-attachments/assets/0378ad31-5bbf-42e9-bebb-1b0661dad8e1" />
 
 ### Ator Principal
 
@@ -257,6 +266,7 @@ Disponibilizar um plano para contratação.
 -   Nenhuma
 
 ## UC07 --- Desativar Plano
+<img width="135" height="248" alt="image" src="https://github.com/user-attachments/assets/14daa8fb-d8f1-430d-845b-9dfb75cf7312" />
 
 ### Ator Principal
 
@@ -298,6 +308,7 @@ Desativar um plano existente.
 -   Nenhuma
 
 ## UC08 --- Registrar Pagamento
+<img width="159" height="303" alt="image" src="https://github.com/user-attachments/assets/6c18affb-b2a0-4a07-b854-d50ff284bcdd" />
 
 ### Ator Principal
 
@@ -340,6 +351,7 @@ Registrar pagamento da mensalidade.
 -   Nenhuma
 
 ## UC09 --- Gerar Boleto ou Pagamento Online
+<img width="216" height="248" alt="image" src="https://github.com/user-attachments/assets/dc514af2-fbc8-4ade-8fb2-014dce4d953a" />
 
 ### Ator Principal
 
@@ -381,6 +393,7 @@ Gerar cobrança online para pagamento.
 -   Nenhuma
 
 ## UC10 --- Verificar Regularidade do Aluno
+<img width="169" height="248" alt="image" src="https://github.com/user-attachments/assets/cb011749-fecc-425a-8249-2b325dbd1c1b" />
 
 ### Ator Principal
 
@@ -422,6 +435,7 @@ Verificar se o aluno está com mensalidade em dia.
 -   Nenhuma
 
 ## UC11 --- Validar Entrada na Academia
+<img width="152" height="303" alt="image" src="https://github.com/user-attachments/assets/eb7eb770-43ee-4a4e-9914-8e451276a57a" />
 
 ### Ator Principal
 
